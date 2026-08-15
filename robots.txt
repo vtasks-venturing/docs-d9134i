@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-xa5j74.salamkita.sbs/sitemap.xml
